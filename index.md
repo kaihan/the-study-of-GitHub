@@ -1,1 +1,2 @@
-# Hello world
+# the study of GitHub
+# Hello world!
